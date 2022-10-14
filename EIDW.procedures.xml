@@ -22,24 +22,30 @@
             <App_Waypoint ID="4">
                 <Name>KERAV</Name>
                 <Type>Normal</Type>
-                <Latitude>53.628333</Latitude>
-                <Longitude>-5.766667</Longitude>
+                <Latitude>53.628611</Latitude>
+                <Longitude>-5.765833</Longitude>
             </App_Waypoint>
             <App_Waypoint ID="5">
                 <Name>KOGAX</Name>
                 <Type>Normal</Type>
-                <Latitude>53.571667</Latitude>
-                <Longitude>-5.636667</Longitude>
+                <Latitude>53.571944</Latitude>
+                <Longitude>-5.637222</Longitude>
             </App_Waypoint>
             <App_Waypoint ID="6">
+                <Name>KISHA</Name>
+                <Type>Normal</Type>
+                <Latitude>53.483889</Latitude>
+                <Longitude>-5.639444</Longitude>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
                 <Name>LAPMO</Name>
                 <Type>Normal</Type>
-                <Latitude>53.403333</Latitude>
-                <Longitude>-5.945</Longitude>
+                <Latitude>53.403056</Latitude>
+                <Longitude>-5.945583</Longitude>
                 <Altitude>2300</Altitude>
                 <AltitudeRestriction>above</AltitudeRestriction>                
             </App_Waypoint>
-            <App_Waypoint ID="7">
+            <App_Waypoint ID="8">
                 <Name>RW28</Name>
                 <Type>Runway</Type>
                 <Latitude>53.421667</Latitude>
