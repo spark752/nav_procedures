@@ -1,0 +1,44 @@
+<ProceduresDB>
+    <Airport ICAOcode="PHNL">
+        <Approach Name="ILS08L">
+            <App_Waypoint ID="1">
+                <Name>JEVIT</Name>
+                <Type>Normal</Type>
+                <Latitude>21.325111</Latitude>
+                <Longitude>-158.166175</Longitude>
+                <Altitude>3500</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>                  
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>COZES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.325169</Latitude>
+                <Longitude>-158.094925</Longitude>
+                <Altitude>2700</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>                 
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>FGTRE</Name>
+                <Type>Normal</Type>
+                <Latitude>21.325189</Latitude>
+                <Longitude>-158.062792</Longitude>
+                <Altitude>2200</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>                
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>EWABE</Name>
+                <Type>Normal</Type>
+                <Latitude>21.325214</Latitude>
+                <Longitude>-158.048851</Longitude>
+            </App_Waypoint>            
+            <App_Waypoint ID="5">
+                <Name>RW08L</Name>
+                <Type>Runway</Type>
+                <Latitude>21.325245</Latitude>
+                <Longitude>-157.943238</Longitude>
+                <Altitude>13</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>        
+    </Airport>
+</ProceduresDB>
