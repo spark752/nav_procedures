@@ -1,0 +1,301 @@
+<ProceduresDB>
+    <Airport ICAOcode="KLNK">
+        <Approach Name="RNAV18">
+            <App_Waypoint ID="1">
+                <Name>AYARE</Name>
+                <Type>Normal</Type>
+                <Latitude>41.048403</Latitude>
+                <Longitude>-96.760478</Longitude>
+                <Altitude>3800</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>FIMUK</Name>
+                <Type>Normal</Type>
+                <Latitude>40.948178</Latitude>
+                <Longitude>-96.761125</Longitude>
+                <Altitude>2900</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>MAXOE</Name>
+                <Type>Normal</Type>
+                <Latitude>40.903017</Latitude>
+                <Longitude>-96.761417</Longitude>
+                <Altitude>2000</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>            
+            <App_Waypoint ID="4">
+                <Name>RW18</Name>
+                <Type>Runway</Type>
+                <Latitude>40.862991</Latitude>
+                <Longitude>-96.761675</Longitude>
+                <Altitude>1195</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="ILSZ18">
+            <App_Waypoint ID="1">
+                <Name>JOUST</Name>
+                <Type>Normal</Type>
+                <Latitude>41.406311</Latitude>
+                <Longitude>-96.786781</Longitude>
+                <Altitude>18000</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>FABRO</Name>
+                <Type>Normal</Type>
+                <Latitude>41.118753</Latitude>
+                <Longitude>-96.760022</Longitude>
+                <Altitude>3100</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>CLONE</Name>
+                <Type>Normal</Type>
+                <Latitude>40.944894</Latitude>
+                <Longitude>-96.761147</Longitude>
+                <Altitude>2900</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>            
+            <App_Waypoint ID="4">
+                <Name>RW18</Name>
+                <Type>Runway</Type>
+                <Latitude>40.862991</Latitude>
+                <Longitude>-96.761675</Longitude>
+                <Altitude>1195</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="ILSY18">
+            <App_Waypoint ID="1">
+                <Name>LNK</Name>
+                <Type>Normal</Type>
+                <Latitude>40.923794</Latitude>
+                <Longitude>-96.742010</Longitude>
+                <Altitude>3200</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>JUSAM</Name>
+                <Type>Normal</Type>
+                <Latitude>41.096667</Latitude>
+                <Longitude>-96.875078</Longitude>
+                <Altitude>3200</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>HUSKR</Name>
+                <Type>Normal</Type>
+                <Latitude>41.101653</Latitude>
+                <Longitude>-96.758464</Longitude>
+                <Altitude>3200</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>ESACO</Name>
+                <Type>Normal</Type>
+                <Latitude>41.007744</Latitude>
+                <Longitude>-96.760742</Longitude>
+                <Altitude>3200</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>CLONE</Name>
+                <Type>Normal</Type>
+                <Latitude>40.944894</Latitude>
+                <Longitude>-96.761147</Longitude>
+                <Altitude>2900</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>ROROC</Name>
+                <Type>Normal</Type>
+                <Latitude>40.890842</Latitude>
+                <Longitude>-96.761494</Longitude>
+                <Altitude>1780</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint> 
+            <App_Waypoint ID="7">
+                <Name>RW18</Name>
+                <Type>Runway</Type>
+                <Latitude>40.862991</Latitude>
+                <Longitude>-96.761675</Longitude>
+                <Altitude>1195</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>                
+        <Approach Name="RNAV36">
+            <App_Waypoint ID="1">
+                <Name>GONBE</Name>
+                <Type>Normal</Type>
+                <Latitude>40.646303</Latitude>
+                <Longitude>-96.763069</Longitude>
+                <Altitude>3700</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>JUDAD</Name>
+                <Type>Normal</Type>
+                <Latitude>40.746497</Latitude>
+                <Longitude>-96.762428</Longitude>
+                <Altitude>2800</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>      
+            <App_Waypoint ID="3">
+                <Name>RW36</Name>
+                <Type>Runway</Type>
+                <Latitude>40.827584</Latitude>
+                <Longitude>-96.761905</Longitude>
+                <Altitude>1175</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="ILSZ36">
+            <App_Waypoint ID="1">
+                <Name>TONKE</Name>
+                <Type>Normal</Type>
+                <Latitude>40.340897</Latitude>
+                <Longitude>-96.782997</Longitude>
+                <Altitude>18000</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>IYXUN</Name>
+                <Type>Normal</Type>
+                <Latitude>40.624019</Latitude>
+                <Longitude>-96.763203</Longitude>
+                <Altitude>4000</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>LN</Name>
+                <Type>Normal</Type>
+                <Latitude>40.747186</Latitude>
+                <Longitude>-96.762429</Longitude>
+                <Altitude>2800</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>JEMVI</Name>
+                <Type>Normal</Type>
+                <Latitude>40.795231</Latitude>
+                <Longitude>-96.762114</Longitude>
+                <Altitude>1860</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint> 
+            <App_Waypoint ID="5">
+                <Name>RW36</Name>
+                <Type>Runway</Type>
+                <Latitude>40.827584</Latitude>
+                <Longitude>-96.761905</Longitude>
+                <Altitude>1175</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="ILSY36">
+            <App_Waypoint ID="1">
+                <Name>BIE</Name>
+                <Type>Normal</Type>
+                <Latitude>40.301428</Latitude>
+                <Longitude>-96.754645</Longitude>
+                <Altitude>3300</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>THEWS</Name>
+                <Type>Normal</Type>
+                <Latitude>40.609003</Latitude>
+                <Longitude>-96.763300</Longitude>
+                <Altitude>2800</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>LN</Name>
+                <Type>Normal</Type>
+                <Latitude>40.747186</Latitude>
+                <Longitude>-96.762429</Longitude>
+                <Altitude>2800</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>RW36</Name>
+                <Type>Runway</Type>
+                <Latitude>40.827584</Latitude>
+                <Longitude>-96.761905</Longitude>
+                <Altitude>1175</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>                  
+        <Approach Name="RNAV14">
+            <App_Waypoint ID="1">
+                <Name>ZUBTO</Name>
+                <Type>Normal</Type>
+                <Latitude>41.037203</Latitude>
+                <Longitude>-96.926717</Longitude>
+                <Altitude>3200</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>OPIZU</Name>
+                <Type>Normal</Type>
+                <Latitude>40.941678</Latitude>
+                <Longitude>-96.838297</Longitude>
+                <Altitude>3000</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>HAGTI</Name>
+                <Type>Normal</Type>
+                <Latitude>40.897917</Latitude>
+                <Longitude>-96.798175</Longitude>
+                <Altitude>1960</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>            
+            <App_Waypoint ID="4">
+                <Name>RW14</Name>
+                <Type>Runway</Type>
+                <Latitude>40.867305</Latitude>
+                <Longitude>-96.769675</Longitude>
+                <Altitude>1199</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="RNAV32">
+            <App_Waypoint ID="1">
+                <Name>OWSEW</Name>
+                <Type>Normal</Type>
+                <Latitude>40.677131</Latitude>
+                <Longitude>-96.595078</Longitude>
+                <Altitude>3100</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>YAPUL</Name>
+                <Type>Normal</Type>
+                <Latitude>40.772897</Latitude>
+                <Longitude>-96.682844</Longitude>
+                <Altitude>3000</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>ZULNO</Name>
+                <Type>Normal</Type>
+                <Latitude>40.814733</Latitude>
+                <Longitude>-96.721286</Longitude>
+                <Altitude>2020</Altitude>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>            
+            <App_Waypoint ID="4">
+                <Name>RW32</Name>
+                <Type>Runway</Type>
+                <Latitude>40.847851</Latitude>
+                <Longitude>-96.751759</Longitude>
+                <Altitude>1192</Altitude>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>        
+    </Airport>
+</ProceduresDB>
+
